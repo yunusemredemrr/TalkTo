@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">407218376916589</string>
+    <string name="fb_login_protocol_scheme">fef45e793c74518f110f5bab25690e2e</string>
+    <string name="app_name">TalkTo</string>
+    <string name="default_notification_channel_id">varsayilan</string>
+</resources>

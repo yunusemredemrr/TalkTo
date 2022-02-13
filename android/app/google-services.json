@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "151506466036",
+    "firebase_url": "https://talkto-7b6ec.firebaseio.com",
+    "project_id": "talkto-7b6ec",
+    "storage_bucket": "talkto-7b6ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151506466036:android:26634eda69294183131aa1",
+        "android_client_info": {
+          "package_name": "talkto.talkto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151506466036-81v3sbcn2qge1o6t9ne0sptr5tblutdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "talkto.talkto",
+            "certificate_hash": "a9514b314fc61bd8af0d6868f09469aff892633b"
+          }
+        },
+        {
+          "client_id": "151506466036-c93q9j63829f8gpt6nk31c7tv1oeau5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH2qumMO5zFdNKMszgkgXONiPWPS8lSYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151506466036-c93q9j63829f8gpt6nk31c7tv1oeau5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
