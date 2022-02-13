@@ -1,7 +1,6 @@
 # talkto
 It is a messaging application.
-![Screenshot_1644744306](https://user-images.githubusercontent.com/50717631/153749226-bf20f2e6-d309-4279-8a4e-e001caeb1a5f.png)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/50717631/153749226-bf20f2e6-d309-4279-8a4e-e001caeb1a5f.png" width="100" height="200" />
+![](https://user-images.githubusercontent.com/50717631/153749226-bf20f2e6-d309-4279-8a4e-e001caeb1a5f.png | height=10)
 ![Screenshot_1644744339](https://user-images.githubusercontent.com/50717631/153749229-8eab3e65-f1c9-4c51-af4b-b7bea201b5a1.png)
 ![Screenshot_1644747593](https://user-images.githubusercontent.com/50717631/153749266-14972782-9276-437c-90f1-8dc1811c776a.png)
 ![Screenshot_1644747603](https://user-images.githubusercontent.com/50717631/153749267-98480c2a-0c2b-4920-8d6a-52738525c515.png)
